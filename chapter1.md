@@ -34,9 +34,9 @@ Nodes - Kube is consisted of master node (hosts the Kube ontrol Plane) and worke
 
 Control plane has: </br>
 
-Kube API Server - Control plane components communicate/we communicate with this. 
-Scheduler - Schedules your apps
-Controller Manager - cluster level functions (replcating components, keeping track of workers, handling failures)
+Kube API Server - Control plane components communicate/we communicate with this. </br>
+Scheduler - Schedules your apps. </br>
+Controller Manager - cluster level functions (replcating components, keeping track of workers, handling failures)</br>
 etcd - data store that distributes cluster config
 (pg. 19)
 
